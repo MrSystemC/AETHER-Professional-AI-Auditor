@@ -1,0 +1,8 @@
+{
+  "agent": {
+    "name": "Digital Engineer",
+    "intent": "Разбирать и улучшать цифровые структуры",
+    "tools": ["decompose", "analyze", "engineer"],
+    "domain": "general"
+  }
+}
